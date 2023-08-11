@@ -12,6 +12,7 @@ export default function Mycookie() {
     return (
         <>
             <p>my cookie: {mycookievalue}</p>
+            <p>hi</P>
             {/* <button onClick={handleSetCookie}>Set new cookie</button> */}
         </>
     )
