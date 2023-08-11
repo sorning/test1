@@ -15,6 +15,7 @@ export default function Mycookie() {
             <p>hi</p>
             <p>git branch dev</p>
             <h1>git branch dev pull</h1>
+            <p>hello</p>
             {/* <button onClick={handleSetCookie}>Set new cookie</button> */}
         </>
     )
